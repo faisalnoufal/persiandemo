@@ -1,0 +1,341 @@
+    <!-- Pricing -->
+    <div id="pricing" class="cards-2">
+      <div class="absolute bottom-0 h-40 w-full bg-white"></div>
+      <div class="container px-4 pb-px sm:px-8">
+        <h2 class="mb-2.5 text-white lg:max-w-xl lg:mx-auto">
+          Pricing options for all budgets
+        </h2>
+        <p class="mb-16 text-white lg:max-w-3xl lg:mx-auto">
+          Our pricing plans are setup in such a way that any user can start
+          enjoying Pavo without worrying so much about costs. They are flexible
+          and work for any type of industry
+        </p>
+
+        <!-- Card-->
+        <div class="card">
+          <div class="card-body">
+            <div class="card-title">STANDARD</div>
+            <div class="price">
+              <span class="currency">$</span><span class="value">29</span>
+            </div>
+            <div class="frequency">monthly</div>
+            <p>
+              This basic package covers the marketing needs of small startups
+            </p>
+            <ul class="list mb-7 space-y-2 text-left">
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>List building and relations</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Seamless platform integration</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Great performance on devices</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Community support and videos</div>
+              </li>
+            </ul>
+            <div class="button-wrapper">
+              <a class="btn-solid-reg page-scroll" href="#download">Download</a>
+            </div>
+          </div>
+        </div>
+        <!-- end of card -->
+        <!-- end of card -->
+
+        <!-- Card-->
+        <div class="card">
+          <div class="card-body">
+            <div class="card-title">ADVANCED</div>
+            <div class="price">
+              <span class="currency">$</span><span class="value">39</span>
+            </div>
+            <div class="frequency">monthly</div>
+            <p>This is a more advanced package suited for medium companies</p>
+            <ul class="list mb-7 space-y-2 text-left">
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>List building and relations</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Seamless platform integration</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Great performance on devices</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Community support and videos</div>
+              </li>
+            </ul>
+            <div class="button-wrapper">
+              <a class="btn-solid-reg page-scroll" href="#download">Download</a>
+            </div>
+          </div>
+        </div>
+        <!-- end of card -->
+        <!-- end of card -->
+
+        <!-- Card-->
+        <div class="card">
+          <div class="card-body">
+            <div class="card-title">COMPLETE</div>
+            <div class="price">
+              <span class="currency">$</span><span class="value">49</span>
+            </div>
+            <div class="frequency">monthly</div>
+            <p>
+              This is a comprehensive package designed for big organizations
+            </p>
+            <ul class="list mb-7 text-left space-y-2">
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>List building and relations</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Seamless platform integration</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Great performance on devices</div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-chevron-right"></i>
+                <div>Community support and videos</div>
+              </li>
+            </ul>
+            <div class="button-wrapper">
+              <a class="btn-solid-reg page-scroll" href="#download">Download</a>
+            </div>
+          </div>
+        </div>
+        <!-- end of card -->
+        <!-- end of card -->
+      </div>
+      <!-- end of container -->
+    </div>
+    <!-- end of cards-2 -->
+    <!-- end of pricing -->
+
+
+
+
+
+        <!-- Statistics -->
+    <div class="counter">
+      <div class="container px-4 sm:px-8">
+        <!-- Counter -->
+        <div id="counter">
+          <div class="cell">
+            <div class="counter-value number-count" data-count="231">1</div>
+            <p class="counter-info">Happy Users</p>
+          </div>
+          <div class="cell">
+            <div class="counter-value number-count" data-count="385">1</div>
+            <p class="counter-info">Issues Solved</p>
+          </div>
+          <div class="cell">
+            <div class="counter-value number-count" data-count="159">1</div>
+            <p class="counter-info">Good Reviews</p>
+          </div>
+          <div class="cell">
+            <div class="counter-value number-count" data-count="127">1</div>
+            <p class="counter-info">Case Studies</p>
+          </div>
+          <div class="cell">
+            <div class="counter-value number-count" data-count="211">1</div>
+            <p class="counter-info">Orders Received</p>
+          </div>
+        </div>
+        <!-- end of counter -->
+      </div>
+      <!-- end of container -->
+    </div>
+    <!-- end of counter -->
+    <!-- end of statistics -->
+
+
+
+        <!-- Testimonials -->
+    <div class="slider-1 py-32 bg-gray">
+      <div class="container px-4 sm:px-8">
+        <h2 class="mb-12 text-center lg:max-w-xl lg:mx-auto">
+          What do users think about Pavo
+        </h2>
+
+        <!-- Card Slider -->
+        <div class="slider-container">
+          <div class="swiper-container card-slider">
+            <div class="swiper-wrapper">
+              <!-- Slide -->
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="images/testimonial-1.jpg"
+                    alt="alternative"
+                  />
+                  <div class="card-body">
+                    <p class="italic mb-3">
+                      It's been so fun to work with Pavo, I've managed to
+                      integrate it properly into my business flow and it's great
+                    </p>
+                    <p class="testimonial-author">Jude Thorn - Designer</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end of swiper-slide -->
+              <!-- end of slide -->
+
+              <!-- Slide -->
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="images/testimonial-2.jpg"
+                    alt="alternative"
+                  />
+                  <div class="card-body">
+                    <p class="italic mb-3">
+                      We were so focused on launching as many campaigns as
+                      possible that we've forgotten to target our loyal
+                      customers
+                    </p>
+                    <p class="testimonial-author">Roy Smith - Developer</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end of swiper-slide -->
+              <!-- end of slide -->
+
+              <!-- Slide -->
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="images/testimonial-3.jpg"
+                    alt="alternative"
+                  />
+                  <div class="card-body">
+                    <p class="italic mb-3">
+                      I've been searching for a tool like Pavo for so long. I
+                      love the reports it generates and the amazing high
+                      accuracy
+                    </p>
+                    <p class="testimonial-author">Marsha Singer - Marketer</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end of swiper-slide -->
+              <!-- end of slide -->
+
+              <!-- Slide -->
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="images/testimonial-4.jpg"
+                    alt="alternative"
+                  />
+                  <div class="card-body">
+                    <p class="italic mb-3">
+                      We've been waiting for a powerful piece of software that
+                      can help businesses manage their marketing projects
+                    </p>
+                    <p class="testimonial-author">Tim Shaw - Designer</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end of swiper-slide -->
+              <!-- end of slide -->
+
+              <!-- Slide -->
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="images/testimonial-5.jpg"
+                    alt="alternative"
+                  />
+                  <div class="card-body">
+                    <p class="italic mb-3">
+                      Searching for a great prototyping and layout design app
+                      was difficult but thankfully I found app suite quickly
+                    </p>
+                    <p class="testimonial-author">Lindsay Spice - Marketer</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end of swiper-slide -->
+              <!-- end of slide -->
+
+              <!-- Slide -->
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="images/testimonial-6.jpg"
+                    alt="alternative"
+                  />
+                  <div class="card-body">
+                    <p class="italic mb-3">
+                      The app support team is amazing. They've helped me with
+                      some issues and I am so grateful to the entire team
+                    </p>
+                    <p class="testimonial-author">Ann Blake - Developer</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end of swiper-slide -->
+              <!-- end of slide -->
+            </div>
+            <!-- end of swiper-wrapper -->
+
+            <!-- Add Arrows -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <!-- end of add arrows -->
+          </div>
+          <!-- end of swiper-container -->
+        </div>
+        <!-- end of slider-container -->
+        <!-- end of card slider -->
+      </div>
+      <!-- end of container -->
+    </div>
+    <!-- end of slider-1 -->
+    <!-- end of testimonials -->
+
+
+    
+    <!-- Conclusion -->
+    <div id="download" class="basic-5">
+      <div class="container px-4 sm:px-8 lg:grid lg:grid-cols-2">
+        <div class="mb-16 lg:mb-0">
+          <img src="images/conclusion-smartphone.png" alt="alternative" />
+        </div>
+        <div class="lg:mt-24 xl:mt-44 xl:ml-12">
+          <p class="mb-9 text-gray-800 text-3xl leading-10">
+            Team management mobile applications don’t get much better than Pavo.
+            Download it today
+          </p>
+          <a class="btn-solid-lg" href="#your-link"
+            ><i class="fab fa-apple"></i>Download</a
+          >
+          <a class="btn-solid-lg secondary" href="#your-link"
+            ><i class="fab fa-google-play"></i>Download</a
+          >
+        </div>
+      </div>
+      <!-- end of container -->
+    </div>
+    <!-- end of basic-5 -->
+    <!-- end of conclusion -->
